@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist",
+    "public": "dist/tatkaar-beats-app/browser",
     "ignore": [
       "firebase.json",
       "**/.*",
